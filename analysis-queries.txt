@@ -1,0 +1,67 @@
+Considering these queries only take into account 500 entries. they are really small figures that dont accuratly represent the full 270,000 rows avaiable
+
+- Who are the most active hosts with the highest number of listings?
+considering the top 500 rows of listings only, the most active host is host ID 23550079 with only 2 active listings. 
+
+- What is the percentage of superhosts in the dataset?
+3.2064
+
+- Which neighborhoods have the highest number of Airbnb listings?
+Buttes-Montmartre	80
+Popincourt	76
+Enclos-St-Laurent	37
+Vaugirard	35
+Batignolles-Monceau	32
+
+- What is the average price of Airbnb listings in different neighborhoods?
+Louvre	134.142857
+Bourse	132.571429
+Palais-Bourbon	112.818182
+Passy	108.055556
+Temple	97.333333
+
+- What is the distribution of room types across all listings?
+Entire place	500
+
+- How do average prices vary across different property types?
+Entire apartment	84.490000
+
+- What are the average review scores for different aspects like cleanliness, communication, and value?
+cleanliness communication value
+10.0000	10.0000	10.0000
+
+- Which Airbnb listings have the highest overall review scores?
+281420	100
+417641	100
+464235	100
+697550	100
+1376240	100
+
+- How do prices vary seasonally across different times of the year?
+1	96.903915
+2	84.174603
+3	89.314410
+4	90.938356
+5	91.268786
+6	93.429769
+7	88.069606
+8	81.740614
+9	94.924272
+10	95.655329
+11	90.844237
+12	88.168033
+
+January and September are mos expensive, August is most affordable.
+
+- How has review activity changed over the years?
+2011	1
+2012	21
+2013	11
+2014	123
+2015	388
+2016	613
+2017	941
+2018	903
+2019	925
+2020	69
+2021	1
